@@ -1,0 +1,8 @@
+############################################
+# Modern To-Do List App Requirements
+############################################
+
+# Tkinter is included with Python
+# No external libraries required
+
+# Python >= 3.8
